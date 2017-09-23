@@ -1,0 +1,3 @@
+Bundle-Name: wiki-display-mvc-render
+Bundle-SymbolicName: com.test.wiki.deisplay.render.mvc.command
+Bundle-Version: 1.0.0
