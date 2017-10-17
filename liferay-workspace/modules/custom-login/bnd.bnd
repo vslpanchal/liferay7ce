@@ -1,0 +1,7 @@
+Bundle-Name: Custom OTP Login Web
+Bundle-SymbolicName: com.otp.login.web
+Bundle-Version: 1.0.0
+Web-ContextPath: /otp-login-web
+
+-jsp: *.jsp,*.jspf
+-plugin.jsp: com.liferay.ant.bnd.jsp.JspAnalyzerPlugin
